@@ -1,0 +1,23 @@
+commit 63d92fe099a7a9e9fa2b056746e9e3610f254562
+Author: JesúsLeal <chula_1115@hotmail.com>
+Date:   Wed Mar 16 10:37:53 2016 -0700
+
+    Conclusuines
+
+commit ec6fe3616640dc1ee2c7b61ebb19e7d8a54b04d2
+Author: JesúsLeal <chula_1115@hotmail.com>
+Date:   Wed Mar 16 10:35:04 2016 -0700
+
+    Casos de uso
+
+commit 7f8d68acc000d68d26c847cc8a2f5c817fd8881b
+Author: JesúsLeal <chula_1115@hotmail.com>
+Date:   Wed Mar 16 10:33:59 2016 -0700
+
+    Regitros no Funcionales
+
+commit d12884817aff57999a61045cd6fc0c90f856026d
+Author: JesúsLeal <chula_1115@hotmail.com>
+Date:   Tue Mar 15 11:00:44 2016 -0700
+
+    Documento de requisitos

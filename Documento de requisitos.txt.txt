@@ -11,3 +11,18 @@ CU003: Cargar Materias
 --------------------------------------------------------------
 Conclusiones
 Este sistema sirve para gestionar los servicios del departamento de control escolar
+-----------------------------------------------
+Documento de requisitos V1.0
+Nueva seccion
+1 2
+2
+3
+4Nueva Seccion
+5-------------------------------------------
+6 1 2
+7
+8ree
+9ulio
+10bhj
+
+
